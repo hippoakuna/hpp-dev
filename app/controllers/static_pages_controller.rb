@@ -2,9 +2,9 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  def dashboard
+  def help
   end
 
-  def projects
+  def about
   end
 end
